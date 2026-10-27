@@ -1,0 +1,38 @@
+================================================================================
+PHYSICAL AI RESEARCH LAB - CONVERSATION SESSION RECORD
+================================================================================
+
+Date Created    : 2026-10-28
+Researcher      : Arunjyoti Sarma (IIT BHU)
+Conversation ID : fb18e9a7-083b-4cfe-964f-173829d5ca8d
+
+GitHub Repo     : https://github.com/arunjyotisarmarsece24-jpg/My_Physical_AI
+Local Path      : C:\Users\IITBHU RESEARCH LAB\OneDrive\Desktop\Arunjyoti_Sarma\My_Coding_files\My_Physical_AI
+
+--------------------------------------------------------------------------------
+CURRENT PROGRESS & MILESTONES:
+--------------------------------------------------------------------------------
+[x] PC Hardware Profiled:
+    - CPU: Intel Core i7-14700T (20 Cores / 28 Threads)
+    - RAM: 16 GB DDR5
+    - Physics Engine: MuJoCo 3.17 (CPU Multi-threaded Vectorized Engine)
+
+[x] Day 01 Completed:
+    - Classical Control & Rigid Body Dynamics
+    - Critical stiffness threshold (Kp_crit = 3.679 Nm/rad)
+    - Computed torque control (PD + analytical gravity compensation)
+    - Hamiltonian energy conservation check & Phase Space Portrait
+
+[x] Day 02 Prepared:
+    - Differential Kinematics & Damped Least Squares (DLS) Jacobian IK
+    - Sub-5mm orbit tracking in 3D Cartesian space
+
+--------------------------------------------------------------------------------
+HOW TO RESUME TOMORROW:
+--------------------------------------------------------------------------------
+When continuing with Antigravity / Gemini assistant tomorrow, you can reference:
+  "Resume conversation ID: fb18e9a7-083b-4cfe-964f-173829d5ca8d"
+Or simply navigate to this directory and ask to proceed with:
+  - Day 02 Deep-Dive (Jacobian IK & Singularity Avoidance)
+  - Day 03 (Cartesian Impedance Control & Virtual Stiffness)
+================================================================================
