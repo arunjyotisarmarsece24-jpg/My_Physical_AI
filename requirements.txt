@@ -1,0 +1,7 @@
+# Physical AI & Simulation Stack (100% Free & Open-Source)
+mujoco>=3.17.0
+numpy>=2.0.0
+matplotlib>=3.10.0
+torch>=2.0.0
+gymnasium>=1.0.0
+scipy>=1.13.0
