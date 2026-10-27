@@ -26,6 +26,11 @@ This repository is optimized for high-performance physics execution on this mach
 
 ```text
 My_Physical_AI/
+├── DAILY_ROADMAP.md                          # 30-Day Physical AI Sprint Checklist
+├── daily_practice/                           # Daily coding challenges & lab logs
+│   ├── README.md
+│   └── day_02_jacobian_ik/                   # Differential kinematics & DLS tracking
+│       └── jacobian_inverse_kinematics.py
 ├── 01_classical_control_and_dynamics/
 │   ├── 01_inverted_pendulum_pd_gravcomp.py   # Computed torque control (PD + gravity cancelation)
 │   └── 02_double_pendulum_chaos.py           # Nonlinear coupled Lagrangian dynamics & chaotic motion
